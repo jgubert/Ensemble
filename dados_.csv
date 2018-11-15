@@ -1,0 +1,16 @@
+0,0,0,1
+Tempo,Temp,Umidade,Ventoso,Joga
+Ensolar,Quente,Alta,0,Nao
+Ensolar,Quente,Alta,1,Nao
+Nublado,Quente,Alta,0,Sim
+Chuvoso,Amena,Alta,0,Sim
+Chuvoso,Fria,Normal,0,Sim
+Chuvoso,Fria,Normal,1,Nao
+Nublado,Fria,Normal,1,Sim
+Ensolar,Amena,Alta,0,Nao
+Ensolar,Fria,Normal,0,Sim
+Chuvoso,Amena,Normal,0,Sim
+Ensolar,Amena,Normal,1,Sim
+Nublado,Amena,Alta,1,Sim
+Nublado,Quente,Normal,0,Sim
+Chuvoso,Amena,Alta,1,Nao
